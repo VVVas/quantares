@@ -1,3 +1,0 @@
-quantares.github.io
-===================
-Yep!
