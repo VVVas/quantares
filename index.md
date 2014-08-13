@@ -6,6 +6,6 @@ layout: index
 
 Мы только начинаем!
 
-Звоните нам по&nbsp;телефону +7&nbsp;925&nbsp;719-49-63 или пишите на электронную&nbsp;почту [info@quantares.ru](info@quantares.ru).
+Звоните нам по&nbsp;телефону +7&nbsp;925&nbsp;719-49-63 или пишите на электронную&nbsp;почту [info@quantares.ru](mailto:info@quantares.ru).
 
 Наш магазин расположен в павильоне&nbsp;B8 (он&nbsp;же&nbsp;C8) в торговом центре «Техно-Холл» на Волгоградском&nbsp;проспекте в доме&nbsp;32, корпусе&nbsp;8.
