@@ -52,6 +52,11 @@ section div {
 
 /* rzz */
 
+#map {
+	min-height: 450px;
+	padding: 0;
+}
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
