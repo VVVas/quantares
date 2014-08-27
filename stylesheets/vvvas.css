@@ -1,7 +1,7 @@
 html { overflow: scroll; }
 body { 
 	margin: 0;
-	background: #f2f2f2;
+	background: #212121;
 }
 
 header {
@@ -21,7 +21,7 @@ header div, footer div {
 	width: 100%;
 	max-width: 1200px;
 	margin: 0 auto;
-	background-color: #f1f1f1;
+	background-color: #f2f2f2;
 }
 
 header div a:link, header div a:active, header div a:visited, header div a:hover,
@@ -43,7 +43,7 @@ section {
 #co { padding-bottom: 2em; }
 
 section div {
-	background-color: #fff;
+	background-color: #f2f2f2;
 	margin: 1em;
 	padding: 1em;
 }
