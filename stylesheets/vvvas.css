@@ -47,3 +47,27 @@ section div {
 	margin: 1em;
 	padding: 1em;
 }
+
+/* rzz */
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border: 1px solid #373737;
+	text-align: left;
+}
+
+th {
+	font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	padding: 10px;
+	background: #373737;
+	color: #fff;
+}
+
+td {
+	padding: 10px;
+	border: 1px solid #373737;
+}
+
+
+
