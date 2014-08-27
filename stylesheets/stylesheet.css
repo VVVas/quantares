@@ -8,6 +8,7 @@ by Jason Costello, @jsncostello
 /*******************************************************************************
 MeyerWeb Reset
 *******************************************************************************/
+
 /*
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -28,6 +29,7 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline;
 }
+*/
 
 /* HTML5 display-role reset for older browsers */
 
@@ -45,8 +47,8 @@ ol, ul {
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
-/*
 
+/*
 img {
   position: relative;
   margin: 0 auto;
@@ -149,10 +151,12 @@ form {
   background: #f2f2f2;
   padding: 20px;
 }
+*/
 
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
+
 /*
 #header_wrap {
   background: #212121;
@@ -163,23 +167,11 @@ Full-Width Styles
   background: linear-gradient(top, #373737, #212121);
 }
 
-#header_wrap .inner {
-  padding: 50px 10px 30px 10px;
-}
-
 #project_title {
   margin: 0;
   color: #fff;
   font-size: 42px;
   font-weight: 700;
-  text-shadow: #111 0px 0px 10px;
-}
-
-#project_tagline {
-  color: #fff;
-  font-size: 24px;
-  font-weight: 300;
-  background: none;
   text-shadow: #111 0px 0px 10px;
 }
 */
