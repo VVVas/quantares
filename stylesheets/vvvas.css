@@ -29,7 +29,7 @@ header div, footer div {
 
 header div a:link, header div a:active, header div a:visited, header div a:hover,
 footer div a:link, footer div a:active, footer div a:visited, footer div a:hover {
-	color: #000; 
+	color: #373737; 
 	text-decoration: none;
 	padding: .4em 0 .4em 1em ;
 	line-height: 2em;
@@ -69,7 +69,7 @@ th {
 	/* font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
 	padding: .5em;
 	background: #212121;
-	color: #fff;
+	color: #f2f2f2;
 }
 
 td {
