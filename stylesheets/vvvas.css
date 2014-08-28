@@ -37,7 +37,8 @@ footer div a:link, footer div a:active, footer div a:visited, footer div a:hover
 }
 
 a.name {
-	padding-top: 2em;
+	display: block;
+	padding-bottom: 2em;
 }
 
 section {
