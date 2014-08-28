@@ -36,11 +36,14 @@ footer div a:link, footer div a:active, footer div a:visited, footer div a:hover
 	white-space: nowrap;
 }
 
+a.name {
+	padding-top: 2em;
+}
+
 section {
 	margin: 0 auto;
 	width: 100%;
 	max-width: 1200px;
-	padding-top: 2em;
 }
 
 section div {
