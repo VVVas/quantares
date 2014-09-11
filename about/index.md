@@ -12,7 +12,11 @@ layout: index
 
 ##Фотографии магазина.
 
-![Фотография входа в магазин](/images/about/enter.jpg "Вход в магазин")
+![Фотография входа в магазин Quantares - Квантарес](/images/about/enter.jpg "Вход в магазин Quanatres")
+
+![Фотография входа в магазин Quantares - Квантарес](/images/about/enter2.jpg "Вход в магазин Quantares")
+
+![Фотография внутри магазина](/images/about/inside.jpg "Внутри магазина Quanatres")
 
 ##Наши реквизиты.
 
