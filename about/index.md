@@ -4,11 +4,13 @@ layout: index
 ---
 ##Контактная информация.
 
+Адрес магазина: Москва, Волгоградский проспект, дом 32, корпус 8, торговый центр «Техно-Холл», павильон B8 (он же C8).
+
+Режим работы: по будням с 10:00 до 20:00 и по выходным с 10:00 до 18:00.
+
 Телефон: +7 925 719-49-63.
 
 Электронная почта: [info@quantares.ru](mailto:info@quantares.ru).
-
-Адрес магазина: Москва, Волгоградский проспект, дом 32, корпус 8, торговый центр «Техно-Холл», павильон B8 (он же C8).
 
 <div id="map">
 	<script height="450" type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=4jksNwXiO2XQ1EOmZgRG8WlLvbiW8K7c&height=450"></script>
