@@ -87,5 +87,6 @@ td {
 }
 
 strong, em {
+	font-style: normal;
 	font-weight: bold;
 }
