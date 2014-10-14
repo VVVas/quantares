@@ -2,7 +2,8 @@ body {
 	margin: 0;
 	background: #212121;
 	color:#373737;
-	font: 18px 'Roboto Slab', 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+	font: 18px 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+/* 'Roboto Slab', */
 }
 
 header {
