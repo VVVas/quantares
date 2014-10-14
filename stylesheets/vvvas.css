@@ -2,8 +2,14 @@ body {
 	margin: 0;
 	background: #212121;
 	color:#373737;
-	font: 18px 'Roboto Slab', serif;
-/*	font: 18px 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;	*/
+	font: 18px 'Roboto Slab', 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+/* сглаживание */
+	-webkit-font-smoothing: subpixel-antialiased !important;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+}
+
 }
 
 header {
@@ -85,6 +91,6 @@ td {
 	border: 1px solid #212121;
 }
 
-strong {
+strong, em {
 	font-weight: bold;
 }
