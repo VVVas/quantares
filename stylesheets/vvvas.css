@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	background: #212121;
 	color:#373737;
-	font: 18px Helvetica, Arial, sans-serif;
+	font: 18px 'Roboto Slab', 'Myriad Pro', Helvetica, Arial, sans-serif;
 /* 'Roboto Slab', */
 }
 
@@ -86,7 +86,7 @@ td {
 }
 
 em {
-	font-style: oblique;
+	font-style: italic;
 }
 
 strong {
