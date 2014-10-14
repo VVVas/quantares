@@ -3,8 +3,10 @@ body {
 	background: #212121;
 	color:#373737;
 	font: 18px 'Roboto Slab', 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
-}
-
+	-webkit-font-smoothing: subpixel-antialiased !important;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
 }
 
 header {
