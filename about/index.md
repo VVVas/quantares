@@ -2,7 +2,7 @@
 title: Адрес магазина и информация о компании.
 layout: about
 ---
-<div style="width: 50%; float: left; margin: 0 1em 0 0; padding: 0; max-width: 300px; min-width: 200px;"><img src="/images/qntrs_big_upper_ru.png" alt="Квантарес"></div>
+<div style="width: 50%; float: left; margin-left: 0; padding-left: 0; max-width: 300px; min-width: 200px;"><img src="/images/qntrs_big_upper_ru.png" alt="Квантарес"></div>
 
 ##Магазин Quantares.
 
