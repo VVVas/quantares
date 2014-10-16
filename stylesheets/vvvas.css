@@ -57,7 +57,7 @@ section div {
 	padding: 1em;
 }
 
-/* rzz */
+/* rzzz */
 
 #map {
 	min-height: 450px;
@@ -92,4 +92,12 @@ em {
 
 strong {
 	font-weight: bold;
+}
+
+/* adaptive */
+@media (max-width: 600px)
+{
+	header {
+		position: static;
+	}
 }
