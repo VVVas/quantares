@@ -100,4 +100,8 @@ strong {
 	header {
 		position: static;
 	}
+	
+	#text {
+		padding-top: 0;
+	}
 }
