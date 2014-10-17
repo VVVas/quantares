@@ -65,6 +65,13 @@ section div {
 	margin: 0;
 }
 
+#logo {
+	width: 200px;
+	float: left;
+	margin-left: 0;
+	padding: 0;
+}
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -95,7 +102,7 @@ strong {
 }
 
 /* adaptive */
-@media (max-width: 600px)
+@media (max-width: 599px)
 {
 	header {
 		position: static;
@@ -103,5 +110,11 @@ strong {
 	
 	#text {
 		padding-top: 0;
+	}
+
+	#logo {
+		width: 100%;
+		float: none;
+		margin: 0;
 	}
 }
