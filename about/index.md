@@ -2,7 +2,7 @@
 title: Адрес магазина и информация о компании.
 layout: about
 ---
-<div id="logo"><img src="/images/qntrs_big_upper_ru.png" alt="Квантарес"></div>
+{% include logo.html %}
 
 ##Магазин Quantares.
 
