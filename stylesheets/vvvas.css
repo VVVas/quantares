@@ -149,7 +149,11 @@ strong {
 	#main, #text, #blog, #catalog {
 		padding-top: 0;
 	}
-
+	
+	#main div {
+		margin-left: 1em;
+	}
+	
 	#main, #text, #logo, #blog, #catalog {
 		width: 100%;
 		float: none;
