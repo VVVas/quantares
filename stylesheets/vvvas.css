@@ -146,11 +146,11 @@ strong {
 		position: static;
 	}
 	
-	#text {
+	#text, #main {
 		padding-top: 0;
 	}
 
-	#logo, #catalog {
+	#logo, #blog, #catalog {
 		width: 100%;
 		float: none;
 		margin: 0;
