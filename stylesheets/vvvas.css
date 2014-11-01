@@ -53,7 +53,8 @@ img {
 }
 
 #texttest {
-	margin-left: 400px
+	width: 100%;
+	margin-left: 400px;
 }
 
 #catalog {
