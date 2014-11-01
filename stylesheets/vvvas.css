@@ -52,6 +52,8 @@ img {
 }
 
 #catalog {
+	padding-top: 2em;
+	float: right;
 	width: 400px;
 }
 
