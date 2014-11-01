@@ -154,7 +154,7 @@ strong {
 		margin-left: 1em;
 	}
 
-	#main div #logo, #main div div.social-likes {
+	#main div #logo, #main div div.social-likes, #main div div.social-likes div.social-likes__widget {
 		margin-left: 0;
 	}
 	
