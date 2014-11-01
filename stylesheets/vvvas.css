@@ -75,6 +75,10 @@ section div {
 	margin-left: 0;
 }
 
+#address div {
+	margin-top: 0;
+}
+
 /* rzzz */
 
 #map {
