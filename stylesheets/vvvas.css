@@ -75,6 +75,7 @@ section div {
 #catalog {
 	width: 200px;
 	float: left;
+	margin-left: 0;
 }
 
 table {
