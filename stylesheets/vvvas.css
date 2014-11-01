@@ -47,14 +47,12 @@ img {
 
 #wrap {
 	margin: 0 auto;
-	width: 100%;
 	min-width: 800px;
 	max-width: 1200px;
 	overflow: hidden;
 }
 
 #texttest {
-	float: left;
 	margin-left: 400px
 }
 
