@@ -55,12 +55,12 @@ img {
 	margin-left: 400px;
 }
 
-#wrap #catalog {
+#catalog, #blog {
 	float: left;
 	width: 200px;
 }
 
-section {
+#address {
 	margin: 0 auto;
 	width: 100%;
 	max-width: 1200px;
