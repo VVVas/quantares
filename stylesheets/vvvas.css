@@ -51,12 +51,12 @@ img {
 	overflow: hidden;
 }
 
-#texttest {
+#wrap #text {
 	width: 100%;
 	margin-left: 400px;
 }
 
-#catalog {
+#wrap #catalog {
 	float: left;
 	width: 200px;
 }
