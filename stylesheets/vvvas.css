@@ -46,10 +46,10 @@ img {
 }
 
 #catalog {
+	width: 200px;
 	float: right;
-	width: 20%;
-	max-width: 400px;
-	min-width: 200px;
+	margin-left: 0;
+	padding: 0;
 }
 
 section {
