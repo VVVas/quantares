@@ -45,6 +45,21 @@ img {
 	padding-top: 2em;
 }
 
+#wrap {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1200px;
+}
+
+#texttest {
+	margin-left: 210px
+}
+
+#catalog {
+	float: left;
+	width: 200px;
+}
+
 section {
 	margin: 0 auto;
 	width: 100%;
@@ -72,12 +87,14 @@ section div {
 	padding: 0;
 }
 
+/*
 #catalog {
 	width: 200px;
 	float: left;
 	padding: 0 1em;
-/*	border-right: 1px solid #212121; */
+	border-right: 1px solid #212121;
 }
+*/
 
 table {
 	border-collapse: collapse;
