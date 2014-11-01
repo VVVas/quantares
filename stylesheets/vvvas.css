@@ -53,10 +53,12 @@ img {
 }
 
 #texttest {
+	float: right;
 	margin-left: 400px
 }
 
 #catalog {
+	float: left;
 	width: 200px;
 }
 
