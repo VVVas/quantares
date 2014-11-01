@@ -146,7 +146,7 @@ strong {
 		position: static;
 	}
 	
-	#text, #blog, #catalog {
+	#main, #text, #blog, #catalog {
 		padding-top: 0;
 	}
 
