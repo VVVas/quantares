@@ -72,6 +72,11 @@ section div {
 	padding: 0;
 }
 
+#catalog {
+	width: 200px;
+	float: left;
+}
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
