@@ -47,7 +47,8 @@ img {
 
 #texttest {
 	padding-top: 2em;
-	padding-left: 500px;
+	float: left;
+	width: 700px;
 }
 
 #catalog {
