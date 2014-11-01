@@ -153,6 +153,10 @@ strong {
 	#main div {
 		margin-left: 1em;
 	}
+
+	#logo {
+		margin-left: 0;
+	}
 	
 	#main, #text, #logo, #blog, #catalog {
 		width: 100%;
