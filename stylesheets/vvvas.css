@@ -78,7 +78,7 @@ section div {
 	padding: 1em;
 }
 
-#text div {
+#wrap #text div {
 	margin-left: 0;
 }
 
