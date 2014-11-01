@@ -1,0 +1,37 @@
+{% include header_tech.html %}
+
+<title>Quantares.ru — {{ page.title }}</title>
+</head>
+<body>
+
+{% include header_menu.html %}
+
+<a class="name" name="text"></a>
+<section id="text">
+	<div>
+
+{{ content }}
+
+{% include social-likes.html %}
+
+	</div>
+</section>
+
+<a class="name" name="catalog"></a>
+<section id="catalog">
+	<div>
+	<h2>Каталог</h2>
+	<ul>
+		<li><a href="/catalog/">Лампы</a></li>
+		<li><a href="/catalog/">Светодиодные светильники</a></li>
+		<li><a href="/catalog/">Трансформаторы и блоки питания</a></li>
+		<li><a href="/catalog/">Датчики и выключатели</a></li>
+	</ul>
+	</div>
+</section>
+
+{% include section_address.html %}
+
+{% include footer_menu.html %}
+
+{% include footer_tech.html %}
