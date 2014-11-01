@@ -2,7 +2,6 @@
 title: Продажа осветительного и электротехнического оборудования.
 layout: catalog
 ---
-{% include logo.html %}
 
 ##Магазин Quantares.
 
