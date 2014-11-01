@@ -55,12 +55,12 @@ img {
 	max-width: 1200px;
 }
 
-#wrap #text {
+#main {
 	margin-left: 350px;
 	padding-top: 2em;
 }
 
-#wrap #catalog, #wrap #blog {
+#catalog, #blog {
 	float: left;
 	width: 350px;
 	padding-top: 2em;
@@ -78,7 +78,7 @@ section div {
 	padding: 1em;
 }
 
-#wrap #text div {
+#main div {
 	margin-left: 0;
 }
 
