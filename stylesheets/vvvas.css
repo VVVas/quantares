@@ -53,13 +53,12 @@ img {
 }
 
 #text {
-	width: 100%;
 	margin-left: 400px;
 }
 
 #catalog, #blog {
 	float: left;
-	width: 200px;
+	width: 300px;
 }
 
 #address {
