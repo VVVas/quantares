@@ -47,7 +47,9 @@ img {
 
 #catalog {
 	float: right;
-	width: 400px;
+	width: 20%;
+	max-width: 400px;
+	min-width: 200px;
 }
 
 section {
