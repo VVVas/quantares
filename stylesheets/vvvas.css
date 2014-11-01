@@ -51,7 +51,6 @@ img {
 #text {
 	margin-left: 350px;
 	padding-top: 2em;
-	margin-left: 0;
 }
 
 #catalog, #blog {
@@ -70,6 +69,10 @@ section div {
 	background: #f2f2f2;
 	margin: 1em;
 	padding: 1em;
+}
+
+#text div {
+	margin-left: 0;
 }
 
 /* rzzz */
