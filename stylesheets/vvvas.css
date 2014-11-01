@@ -45,10 +45,12 @@ img {
 	padding-top: 2em;
 }
 
+#texttest {
+	padding-top: 2em;
+}
+
 #catalog {
-	min-width: 200px;
-	max-width: 400px;
-	width: 20%
+	width: 400px;
 }
 
 section {
