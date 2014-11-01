@@ -49,8 +49,9 @@ img {
 }
 
 #text {
-	margin-left: 400px;
+	margin-left: 350px;
 	padding-top: 2em;
+	margin-left: 0;
 }
 
 #catalog, #blog {
