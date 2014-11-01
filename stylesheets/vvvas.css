@@ -112,6 +112,7 @@ section div {
 
 #blog ul {
 	padding-left: 0;
+	list-style-position: inside;
 }
 
 table {
