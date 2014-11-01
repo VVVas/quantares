@@ -47,7 +47,6 @@ img {
 
 #wrap {
 	margin: 0 auto;
-	min-width: 800px;
 	max-width: 1200px;
 	overflow: hidden;
 }
