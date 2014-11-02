@@ -26,11 +26,11 @@
 
 {{ content }}
 
-test 15
+test 20
 
 <ul>
-{% for page in site.tags[led] %}
-<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+{% for post in site.tags[shop] %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 
