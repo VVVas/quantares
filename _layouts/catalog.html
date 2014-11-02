@@ -8,29 +8,30 @@
 
 <div id="wrap">
 
-<div id="catalog">
-слева
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-слева 2
-</div>
+<section id="catalog">
+	<div>
+	<h2>Каталог</h2>
+	<ul>
+		<li>Лампы</li>
+		<li>Светодиодные светильники</li>
+		<li>Трансформаторы и блоки питания</li>
+		<li>Датчики и выключатели</li>
+		<li>Светодиодные ленты</li>
+	</ul>
+	</div>
+</section>
 
-<div id="texttest">
-справа
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-справа 2
-</div>
+<section id="main">
+	<div>
 
-</div>
+{{ content }}
+
+{% include social-likes.html %}
+
+	</div>
+</section>
+
+</div><!-- END #wrap -->
 
 {% include section_address.html %}
 
