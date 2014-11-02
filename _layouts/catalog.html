@@ -28,13 +28,7 @@
 
 тест
 
-<ul>
-	{% for page in site.tags.led %}
-		<li>
-			{{ page.title }}
-		</li>
-	{% endfor %}
-</ul>
+{{ site.tags }}
 
 {% include social-likes.html %}
 
