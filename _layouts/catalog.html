@@ -27,9 +27,9 @@
 {{ content }}
 
 <ul>
-	{% for tag.led in site.pages.tags %}
+	{% for tag in site.pages.tags %}
 		<li>
-			<a href="{{ page.url }}">{{ page.title }}</a>
+			{{ tag }}
 		</li>
 	{% endfor %}
 </ul>
