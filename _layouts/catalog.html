@@ -26,9 +26,18 @@
 
 {{ content }}
 
-тест 4
+тест 5
 
-{{ site.tags | tag: "led" }}
+{{ site.pages.tags == "led" }}
+
+<ul>
+{% for page in site.pages.tags == "led" %}
+	<li>
+		{{ page.title }}
+	</li>
+{% endfor %}
+</ul>
+
 
 {% include social-likes.html %}
 
