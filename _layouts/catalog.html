@@ -26,10 +26,10 @@
 
 {{ content }}
 
-test 20
+test 25
 
 <ul>
-{% for post in site.tags[shop] %}
+{% for post in site.posts.tags[shop] %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
