@@ -110,7 +110,7 @@ section div {
 }
 */
 
-#blog ul {
+#blog ul, #catalog ul {
 	padding-left: 1em;
 }
 
