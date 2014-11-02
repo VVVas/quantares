@@ -26,10 +26,10 @@
 
 {{ content }}
 
-тест 7
+тест 10
 
 <ul>
-{% for page in site.pages | where:"tag","led" %}
+{% for page in site.tags | tag: "led" %}
 	<li>
 		{{ page.title }}
 	</li>
