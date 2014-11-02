@@ -1,7 +1,7 @@
 ---
 title: led 2
 layout: good
-tag: led
+tags: led
 ---
 
 led 2
