@@ -1,7 +1,7 @@
 ---
 title: led 3
 layout: good
-category: lum
+tag: lum
 ---
 
 led 3 lum

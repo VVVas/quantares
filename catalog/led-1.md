@@ -1,7 +1,7 @@
 ---
 title: led 1
 layout: good
-category: led
+tag: led
 ---
 
 led 1
