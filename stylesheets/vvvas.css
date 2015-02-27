@@ -29,6 +29,7 @@ header div, footer div {
 }
 
 header div a:link, header div a:active, header div a:visited, header div a:hover,
+header div span,
 footer div a:link, footer div a:active, footer div a:visited, footer div a:hover {
 	color: #373737; 
 	text-decoration: none;
