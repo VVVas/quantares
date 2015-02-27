@@ -38,6 +38,10 @@ footer div a:link, footer div a:active, footer div a:visited, footer div a:hover
 	white-space: nowrap;
 }
 
+header div span {
+	right: 0;
+}
+
 img {
 	width: 100%;
 }
