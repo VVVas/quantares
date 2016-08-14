@@ -1,4 +1,4 @@
-quantares.github.io
+vvvas.github.io/quantares
 ===================
 
 ###Сайт http://quantares.ru
