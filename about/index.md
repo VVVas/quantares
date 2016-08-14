@@ -2,6 +2,7 @@
 title: Адрес магазина и информация о компании.
 layout: about
 ---
+
 {% include logo.html %}
 
 ##Магазин Quantares.
