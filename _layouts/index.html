@@ -1,0 +1,40 @@
+{% include header_tech.html %}
+
+<title>Quantares.ru — {{ page.title }}</title>
+</head>
+<body>
+
+{% include header_menu.html %}
+
+<div id="wrap">
+
+<section id="blog">
+	<div>
+	<h2>Блог</h2>
+	<ul>
+	{% for post in site.posts %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a> — <em>{{ post.date | date: "%m.%Y" }}</em>.
+		</li>
+	{% endfor %}
+	</ul>
+	</div>
+</section>
+
+<section id="main">
+	<div>
+
+{{ content }}
+
+{% include social-likes.html %}
+
+	</div>
+</section>
+
+</div><!-- END #wrap -->
+
+{% include section_address.html %}
+
+{% include footer_menu.html %}
+
+{% include footer_tech.html %}

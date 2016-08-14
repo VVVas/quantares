@@ -1,0 +1,171 @@
+body { 
+	margin: 0;
+	background: #212121;
+	color:#373737;
+	font: 18px 'Roboto Slab', 'Myriad Pro', Helvetica, Arial, sans-serif;
+/* 'Roboto Slab', */
+}
+
+header {
+	top: 0;
+	position: fixed;
+	z-index: 20;
+	width: 100%;
+}
+
+footer {
+	width: 100%;
+}
+
+header div {
+	border-bottom: 1px solid #212121;
+}
+
+header div, footer div {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+	background: #f2f2f2;
+}
+
+header div a:link, header div a:active, header div a:visited, header div a:hover,
+header div span,
+footer div a:link, footer div a:active, footer div a:visited, footer div a:hover {
+	color: #373737; 
+	text-decoration: none;
+	padding: .4em 0 .4em 1em ;
+	line-height: 2em;
+	white-space: nowrap;
+}
+
+img {
+	width: 100%;
+}
+
+#wrap {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1200px;
+	overflow: hidden;
+}
+
+#text {
+	padding-top: 2em;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1200px;
+}
+
+#main {
+	margin-left: 350px;
+	padding-top: 2em;
+}
+
+#catalog, #blog {
+	float: left;
+	width: 350px;
+	padding-top: 2em;
+}
+
+#address {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1200px;
+}
+
+section div {
+	background: #f2f2f2;
+	margin: 1em;
+	padding: 1em;
+}
+
+#main div {
+	margin-left: 0;
+}
+
+#address div {
+	margin-top: 0;
+}
+
+/* rzzz */
+
+#map {
+	min-height: 450px;
+	padding: 0;
+	margin: 0;
+}
+
+#logo {
+	width: 200px;
+	float: left;
+	margin-left: 0;
+	padding: 0;
+}
+
+/*
+#catalog {
+	width: 200px;
+	float: left;
+	padding: 0 1em;
+	border-right: 1px solid #212121;
+}
+*/
+
+#blog ul, #catalog ul {
+	padding-left: 1em;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border: 1px solid #212121;
+	text-align: left;
+	margin-bottom: 1em;
+}
+
+th {
+	padding: .5em;
+	background: #212121;
+	color: #f2f2f2;
+	font-weight: normal;
+}
+
+td {
+	padding: .5em;
+	border: 1px solid #212121;
+}
+
+em {
+	font-style: italic;
+	padding-right: .1em;
+}
+
+strong {
+	font-weight: bold;
+}
+
+/* adaptive */
+@media (max-width: 599px)
+{
+	header {
+		position: static;
+	}
+	
+	#main, #text, #blog, #catalog {
+		padding-top: 0;
+	}
+	
+	#main div {
+		margin-left: 1em;
+	}
+
+	#main div #logo, #main div div.social-likes, #main div div.social-likes div.social-likes__widget {
+		margin-left: 0;
+	}
+	
+	#main, #text, #logo, #blog, #catalog {
+		width: 100%;
+		float: none;
+		margin: 0;
+	}
+}

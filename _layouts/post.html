@@ -1,0 +1,23 @@
+{% include header_tech.html %}
+
+<title>Блог Quantares.ru — {{ page.title }}</title>
+</head>
+<body>
+
+{% include header_menu.html %}
+
+<section id="text">
+	<div>
+
+{{ content }}
+
+{% include social-likes.html %}
+
+	</div>
+</section>
+
+{% include section_address.html %}
+
+{% include footer_menu.html %}
+
+{% include footer_tech.html %}

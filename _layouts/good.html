@@ -1,0 +1,29 @@
+{% include header_tech.html %}
+
+<title>Quantares.ru — Товар {{ page.title }}</title>
+</head>
+<body>
+
+{% include header_menu.html %}
+
+<section id="text">
+	<div>
+
+{{ content }}
+
+{% include social-likes.html %}
+
+	</div>
+</section>
+
+<section id="address">
+	<div>
+
+{% include address_text.html %}
+
+	</div>
+</section>
+
+{% include footer_menu.html %}
+
+{% include footer_tech.html %}
