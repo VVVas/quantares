@@ -3,6 +3,7 @@ title: Открытие магазина по новому адресу
 layout: post
 tags: company shop
 ---
+
 {% include logo.html %}
 
 ##Второе открытие магазина.
